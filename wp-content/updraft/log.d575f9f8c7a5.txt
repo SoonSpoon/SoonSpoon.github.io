@@ -1,0 +1,114 @@
+0000.000 () Opened log file at time: Mon, 15 Apr 2013 21:23:11 +0000
+0000.005 () UpdraftPlus: 1.5.21 WP: 3.5.1 PHP: 5.2.17 (Linux box788.bluehost.com 2.6.32-20130307.60.9.bh6.x86_64 #1 SMP Thu Mar 7 15:58:33 EST 2013 x86_64) Server: Apache max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+0000.016 () Free space on disk containing Updraft's temporary directory: 1583882.1 Mb
+0000.018 () Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: fortnightly)
+0000.020 () Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.023 (0) Backup run: resumption=0, nonce=d575f9f8c7a5, begun at=1366060991 (0s ago), job type=backup
+0000.024 (0) Scheduling a resumption (1) after 300 seconds (1366061292) in case this run gets aborted
+0000.025 (0) Creation of backups of directories: beginning
+0000.028 (0) Beginning creation of dump of plugins
+0000.169 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 100 files added (on-disk size: 395 Kb, lwt=0s)
+0002.861 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 200 files added (on-disk size: 2091.8 Kb, lwt=0s)
+0004.445 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 300 files added (on-disk size: 2557 Kb, lwt=0s)
+0004.759 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 400 files added (on-disk size: 2648.5 Kb, lwt=0s)
+0005.987 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 500 files added (on-disk size: 3273 Kb, lwt=0s)
+0007.663 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 600 files added (on-disk size: 5374.5 Kb, lwt=0s)
+0008.918 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 700 files added (on-disk size: 6472.9 Kb, lwt=0s)
+0009.330 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 800 files added (on-disk size: 8774.2 Kb, lwt=0s)
+0009.731 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 900 files added (on-disk size: 10457.5 Kb, lwt=0s)
+0009.981 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip.tmp: 1000 files added (on-disk size: 10634.5 Kb, lwt=0s)
+0010.156 (0) Created plugins zip - file size is 10730.7 Kb in 10.1 s (1059.6 Kb/s)
+0010.157 (0) Beginning creation of dump of themes
+0010.230 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 100 files added (on-disk size: 696.2 Kb, lwt=0s)
+0010.369 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 200 files added (on-disk size: 1437.1 Kb, lwt=0s)
+0011.570 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 300 files added (on-disk size: 1816.2 Kb, lwt=0s)
+0013.431 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 400 files added (on-disk size: 2143 Kb, lwt=0s)
+0015.841 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 500 files added (on-disk size: 3776.3 Kb, lwt=0s)
+0016.322 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 600 files added (on-disk size: 4094.6 Kb, lwt=0s)
+0016.531 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 700 files added (on-disk size: 4363.2 Kb, lwt=0s)
+0016.732 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 800 files added (on-disk size: 5684.5 Kb, lwt=0s)
+0017.005 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 900 files added (on-disk size: 6882.6 Kb, lwt=0s)
+0017.217 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1000 files added (on-disk size: 7066 Kb, lwt=0s)
+0020.639 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1100 files added (on-disk size: 7188.5 Kb, lwt=0s)
+0022.952 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1200 files added (on-disk size: 7453.3 Kb, lwt=0s)
+0023.644 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1300 files added (on-disk size: 7712.8 Kb, lwt=0s)
+0023.948 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1400 files added (on-disk size: 8174.2 Kb, lwt=0s)
+0024.073 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1500 files added (on-disk size: 8382.8 Kb, lwt=0s)
+0024.473 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1600 files added (on-disk size: 8666.6 Kb, lwt=0s)
+0024.726 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1700 files added (on-disk size: 9201.5 Kb, lwt=0s)
+0030.504 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1800 files added (on-disk size: 13198 Kb, lwt=0s)
+0030.664 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 1900 files added (on-disk size: 13326.2 Kb, lwt=0s)
+0031.171 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip.tmp: 2000 files added (on-disk size: 14560.2 Kb, lwt=0s)
+0031.763 (0) Created themes zip - file size is 14612.6 Kb in 21.6 s (676.3 Kb/s)
+0031.765 (0) Beginning creation of dump of uploads
+0033.712 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-uploads.zip.tmp: 100 files added (on-disk size: 2422.6 Kb, lwt=0s)
+0033.719 (0) Zip: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-uploads.zip.tmp: 200 files added (on-disk size: 2422.6 Kb, lwt=0s)
+0037.254 (0) Created uploads zip - file size is 19229.1 Kb in 5.5 s (3503.7 Kb/s)
+0037.254 (0) Beginning backup of other directories found in the content directory
+0037.255 (0) Looking for candidates to back up in: /home7/rainbpk2/public_html/wp-content
+0037.256 (0) finding files: uploads: skipping: this is the uploads directory
+0037.256 (0) finding files: upgrade: skipping: excluded by options
+0037.257 (0) finding files: updraft: skipping: this is the updraft directory
+0037.258 (0) finding files: install.php: adding to list
+0037.258 (0) finding files: plugins: skipping: this is the plugins directory
+0037.259 (0) finding files: themes: skipping: this is the themes directory
+0037.259 (0) finding files: index.php: skipping: excluded by options
+0037.262 (0) Created others zip - file size is 0.6 Kb in 0 s (290 Kb/s)
+0037.265 (0) Saving backup status to database (elements: 8)
+0037.269 (0) Unrecognised data when trying to ascertain if the database was backed up ()
+0037.270 (0) Saving backup history
+0037.273 (0) backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0037.274 (0) backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0037.275 (0) backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0037.276 (0) backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-others.zip: others: This file has not yet been successfully uploaded: will queue
+0037.278 (0) Requesting backup of the files that were not successfully uploaded
+0037.279 (0) Cloud backup selection: email
+0037.281 (0) Beginning dispatch of backup to remote
+0071.523 (0) Recording as successfully uploaded: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip (1fe9d71b5ad82d2a78a830c915dd1c9a)
+0071.527 (0) Deleting local file: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-plugins.zip
+0093.445 (0) Recording as successfully uploaded: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip (65a4022c44f29df6c424e130776712e6)
+0093.449 (0) Deleting local file: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-themes.zip
+0115.656 (0) Recording as successfully uploaded: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-uploads.zip (06c421b35407210e7de19b3ae088617c)
+0115.662 (0) Deleting local file: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-uploads.zip
+0116.023 (0) Recording as successfully uploaded: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-others.zip (8738dfee04a412e661eea6a153b6f18f)
+0116.026 (0) Deleting local file: backup_2013-04-15-2123_Redline_Fight_Sports_d575f9f8c7a5-others.zip
+0116.027 (0) Retain: beginning examination of existing backup sets
+0116.027 (0) Retain files: user setting: number to retain = 2
+0116.028 (0) Retain db: user setting: number to retain = 2
+0116.029 (0) Number of backup sets in history: 5
+0116.030 (0) Examining backup set with datestamp: 1366060991
+0116.030 (0) 1366060991: this set includes files; fileset count is now 1
+0116.031 (0) 1366060991: this backup set remains non-empty; will retain in history
+0116.031 (0) Examining backup set with datestamp: 1366060929
+0116.032 (0) 1366060929: this set includes a database (backup_2013-04-15-2122_Redline_Fight_Sports_29f113be7f6e-db.gz); db count is now 1
+0116.033 (0) 1366060929: this set includes files; fileset count is now 2
+0116.033 (0) 1366060929: this backup set remains non-empty; will retain in history
+0116.034 (0) Examining backup set with datestamp: 1366060852
+0116.034 (0) 1366060852: this set includes a database (backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-db.gz); db count is now 2
+0116.035 (0) 1366060852: this set includes files; fileset count is now 3
+0116.035 (0) 1366060852: over retain limit (2); will delete this file set
+0116.036 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-plugins.zip, service=email
+0116.037 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-themes.zip, service=email
+0116.037 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-uploads.zip, service=email
+0116.038 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-others.zip, service=email
+0116.038 (0) 1366060852: this backup set remains non-empty; will retain in history
+0116.039 (0) Examining backup set with datestamp: 1366060827
+0116.039 (0) 1366060827: this set includes files; fileset count is now 4
+0116.040 (0) 1366060827: over retain limit (2); will delete this file set
+0116.041 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_2419e51956f3-plugins.zip, service=email
+0116.041 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_2419e51956f3-themes.zip, service=email
+0116.042 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_2419e51956f3-uploads.zip, service=email
+0116.042 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_2419e51956f3-others.zip, service=email
+0116.043 (0) 1366060827: this backup set is now empty; will remove from history
+0116.044 (0) 1366060827: corresponding log file not found - must have already been deleted
+0116.044 (0) Examining backup set with datestamp: 1366060795
+0116.045 (0) 1366060795: this set includes a database (backup_2013-04-15-2119_Redline_Fight_Sports_616e5307cf6a-db.gz); db count is now 3
+0116.045 (0) 1366060795: over retain limit (2); will delete this database
+0116.046 (0) Delete this file: backup_2013-04-15-2119_Redline_Fight_Sports_616e5307cf6a-db.gz, service=email
+0116.047 (0) 1366060795: this backup set is now empty; will remove from history
+0116.047 (0) 1366060795: corresponding log file not found - must have already been deleted
+0116.048 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0116.049 (0) Resume backup (d575f9f8c7a5, 0): finish run
+0116.051 (0) There were no errors in the uploads, so the 'resume' event is being unscheduled
+0116.052 (0) Sending email ('Files only (database was not part of this particular schedule)') report to: conor...
+0116.588 (0) The backup apparently succeeded and is now complete

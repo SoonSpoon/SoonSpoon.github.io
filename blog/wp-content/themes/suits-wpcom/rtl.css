@@ -1,0 +1,244 @@
+/*
+rtl Suits theme
+--------------------------------------------------------------*/
+blockquote blockquote {
+	margin-left: 0;
+	margin-right: auto;
+}
+menu,
+ol,
+ul {
+	padding: 0 40px 0 0;
+	padding: 0 4rem 0 0;
+}
+input[type="search"] {
+	padding-left: 2px;
+	padding-right: 0;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+td {
+	padding: 6px 0 6px 10px;
+	padding: 0.6rem 0 0.6rem 1rem;
+}
+.alignright {
+	float: right;
+}
+.alignleft {
+	float: left;
+}
+.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+img.alignright {
+	margin: 5px 0 5px 20px;
+	margin: 0.5rem 0 0.5rem 2rem;
+}
+.wp-caption.alignright {
+	margin: 5px 0 5px 10px;
+	margin: 0.5rem 0 0.5rem 1rem;
+}
+img.alignleft {
+	margin: 5px 20px 5px 0;
+	margin: 0.5rem 2rem 0.5rem 0;
+}
+
+.wp-caption.alignleft {
+	margin: 5px 10px 5px 0;
+	margin: 0.5rem 1rem 0.5rem 0;
+}
+body{
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.site-main .content-area {
+	float: right;
+}
+.site-main .sidebar-container {
+	float: left;
+}
+.site-footer .widget-area {
+	text-align: right;
+}
+.site-footer .widget-area {
+	float: right;
+}
+.gallery {
+	margin-right: -4px;
+	margin-left: auto;
+}
+.gallery-item {
+	float: right;
+	margin: 0 0 4px 4px;
+}
+.gallery-columns-1 .gallery-item:nth-of-type(1n),
+.gallery-columns-2 .gallery-item:nth-of-type(2n),
+.gallery-columns-3 .gallery-item:nth-of-type(3n),
+.gallery-columns-4 .gallery-item:nth-of-type(4n),
+.gallery-columns-5 .gallery-item:nth-of-type(5n),
+.gallery-columns-6 .gallery-item:nth-of-type(6n),
+.gallery-columns-7 .gallery-item:nth-of-type(7n),
+.gallery-columns-8 .gallery-item:nth-of-type(8n),
+.gallery-columns-9 .gallery-item:nth-of-type(9n) {
+	margin-left: 0;
+	margin-right: auto;
+}
+.gallery-caption {
+	right: 0;
+	text-align: right;
+	left: auto;
+}
+.gallery-caption:before {
+	right: 0;
+	left: auto;
+}
+.attachment .entry-title {
+	float: right;
+}
+.image-navigation {
+	float: left;
+}
+.image-navigation .nav-next {
+	margin-right: 10px;
+	margin-right: 1rem;
+	margin-left: auto;
+}
+.attachment .entry-caption {
+	text-align: right;
+}
+ul.nav-menu,
+div.nav-menu > ul {
+	padding: 0 0 0 40px;
+	padding: 0 0 0 4rem;
+}
+.nav-menu li {
+	float: right;
+}
+.nav-menu .sub-menu,
+.nav-menu .children {
+	right: 0;
+	left: auto;
+}
+.nav-menu .sub-menu ul,
+.nav-menu .children ul {
+	border-right: 0;
+	right: 100%;
+	left: auto;
+	border-left: none;
+}
+.site-header .search-form {
+	left: 0;
+	right: auto;
+}
+.site-header .search-field {
+	padding: 0 42px 0 0;
+	padding: 0 4.2rem 0 0;
+}
+.site-header .search-field:focus {
+	padding-left: 2px;
+	padding-right: 0;
+}
+.navigation .nav-previous {
+	float: right;
+}
+.navigation .nav-next {
+	float: left;
+}
+.post-navigation .nav-previous {
+	float: right;
+	text-align: right;
+}
+.post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+.comment-list .children {
+	margin-right: 20px;
+	margin-right: 2rem;
+	margin-left: auto;
+}
+.comment-author .avatar {
+	float: right;
+	margin-left: 23px;
+	margin-left: 2.3rem;
+	margin-right: auto;
+}
+.no-avatars .comment-metadata,
+.no-avatars .comment-awaiting-moderation,
+.no-avatars .comment-content,
+.no-avatars .comment-list .reply {
+	margin-right: 0;
+	margin-left: auto;
+}
+.comment-metadata,
+.comment-awaiting-moderation,
+.comment-content,
+.comment-list .reply {
+	margin-right: 63px;
+	margin-right: 6.3rem;
+	margin-left: auto;
+}
+.widget li > ul,
+.widget li > ol {
+	margin-right: 20px;
+	margin-right: 2rem;
+	margin-left: auto;
+}
+.widget_calendar tfoot td {
+	text-align: right;
+}
+.widget_calendar tfoot td:last-child {
+	text-align: left;
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.widget_calendar tfoot td:last-child {
+		text-align: left;
+	}
+}
+.site-header .home-link,
+	.main-navigation,
+	.site-main,
+	.site-footer .sidebar-inner,
+	.site-info,
+	.site-main .content-area,
+	.site-main .sidebar-container,
+	.single-attachment .content-area,
+	.full-width .content-area,
+	.one-footer-sidebar .site-footer .widget-area,
+	.two-footer-sidebars .site-footer .widget-area,
+	.three-footer-sidebars .site-footer .widget-area {
+	margin-right: auto;
+	margin-left: auto;
+}
+@media only screen and (max-width: 767px) {
+	.widget_calendar tfoot td {
+		text-align: right;
+	}
+	.widget_calendar tfoot td:last-child {
+		text-align: left;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.widget_calendar tfoot td:last-child {
+		text-align: left;
+	}
+	.site-header .home-link,
+	.main-navigation,
+	.site-main,
+	.site-footer .sidebar-inner,
+	.site-info,
+	.site-main .content-area,
+	.site-main .sidebar-container,
+	.single-attachment .content-area,
+	.full-width .content-area,
+	.one-footer-sidebar .site-footer .widget-area,
+	.two-footer-sidebars .site-footer .widget-area,
+	.three-footer-sidebars .site-footer .widget-area {
+		margin-right: auto;
+		margin-left: auto;
+	}
+}

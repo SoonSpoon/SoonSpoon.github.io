@@ -1,0 +1,81 @@
+0000.000 () Opened log file at time: Mon, 15 Apr 2013 21:25:38 +0000
+0000.003 () UpdraftPlus: 1.5.21 WP: 3.5.1 PHP: 5.2.17 (Linux box788.bluehost.com 2.6.32-20130307.60.9.bh6.x86_64 #1 SMP Thu Mar 7 15:58:33 EST 2013 x86_64) Server: Apache max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 1583935.7 Mb
+0000.009 () Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: fortnightly)
+0000.010 () Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.014 (0) Backup run: resumption=0, nonce=b9297742d499, begun at=1366061138 (0s ago), job type=backup
+0000.015 (0) Scheduling a resumption (1) after 300 seconds (1366061438) in case this run gets aborted
+0000.016 (0) This backup run is not intended for files - skipping
+0000.017 (0) Saving backup status to database (elements: 0)
+0000.018 (0) Beginning creation of database dump
+0000.027 (0) Table vih_commentmeta: Total rows added: 0 in 0.01 seconds
+0000.029 (0) Table vih_commentmeta: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_commentmeta.table.gz)
+0000.037 (0) Table vih_comments: Total rows added: 1 in 0.01 seconds
+0000.038 (0) Table vih_comments: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_comments.table.gz)
+0000.044 (0) Table vih_links: Total rows added: 0 in 0.01 seconds
+0000.045 (0) Table vih_links: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_links.table.gz)
+0000.111 (0) Table vih_options: Total rows added: 387 in 0.06 seconds
+0000.113 (0) Table vih_options: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_options.table.gz)
+0000.135 (0) Table vih_postmeta: Total rows added: 394 in 0.02 seconds
+0000.136 (0) Table vih_postmeta: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_postmeta.table.gz)
+0000.393 (0) Table vih_posts: Total rows added: 320 in 0.26 seconds
+0000.395 (0) Table vih_posts: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_posts.table.gz)
+0000.402 (0) Table vih_term_relationships: Total rows added: 20 in 0.01 seconds
+0000.403 (0) Table vih_term_relationships: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_term_relationships.table.gz)
+0000.409 (0) Table vih_term_taxonomy: Total rows added: 4 in 0.00 seconds
+0000.410 (0) Table vih_term_taxonomy: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_term_taxonomy.table.gz)
+0000.416 (0) Table vih_terms: Total rows added: 4 in 0.00 seconds
+0000.417 (0) Table vih_terms: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_terms.table.gz)
+0000.424 (0) Table vih_usermeta: Total rows added: 37 in 0.01 seconds
+0000.425 (0) Table vih_usermeta: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_usermeta.table.gz)
+0000.431 (0) Table vih_users: Total rows added: 2 in 0.01 seconds
+0000.432 (0) Table vih_users: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_users.table.gz)
+0000.437 (0) Table vih_vslider: Total rows added: 6 in 0.00 seconds
+0000.438 (0) Table vih_vslider: finishing file (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_vslider.table.gz)
+0000.439 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_commentmeta.table.gz: adding to final database dump
+0000.441 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_comments.table.gz: adding to final database dump
+0000.442 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_links.table.gz: adding to final database dump
+0000.443 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_options.table.gz: adding to final database dump
+0000.480 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_postmeta.table.gz: adding to final database dump
+0000.487 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_posts.table.gz: adding to final database dump
+0000.689 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_term_relationships.table.gz: adding to final database dump
+0000.690 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_term_taxonomy.table.gz: adding to final database dump
+0000.692 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_terms.table.gz: adding to final database dump
+0000.693 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_usermeta.table.gz: adding to final database dump
+0000.694 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_users.table.gz: adding to final database dump
+0000.695 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db-table-vih_vslider.table.gz: adding to final database dump
+0000.696 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db.gz: finished writing out complete database file (1200 Kb)
+0000.699 (0) Total database tables backed up: 12
+0000.700 (0) Saving backup history
+0000.704 (0) backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db.gz: db: This file has not yet been successfully uploaded: will queue
+0000.704 (0) Requesting backup of the files that were not successfully uploaded
+0000.705 (0) Cloud backup selection: email
+0000.706 (0) Beginning dispatch of backup to remote
+0007.409 (0) Recording as successfully uploaded: backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db.gz (0d2190e5ee60b9483ee51621da34b6b3)
+0007.412 (0) Deleting local file: backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db.gz
+0007.414 (0) Retain: beginning examination of existing backup sets
+0007.415 (0) Retain files: user setting: number to retain = 2
+0007.416 (0) Retain db: user setting: number to retain = 2
+0007.417 (0) Number of backup sets in history: 4
+0007.418 (0) Examining backup set with datestamp: 1366061138
+0007.419 (0) 1366061138: this set includes a database (backup_2013-04-15-2125_Redline_Fight_Sports_b9297742d499-db.gz); db count is now 1
+0007.420 (0) 1366061138: this backup set remains non-empty; will retain in history
+0007.421 (0) Examining backup set with datestamp: 1366060991
+0007.421 (0) 1366060991: this set includes files; fileset count is now 1
+0007.422 (0) 1366060991: this backup set remains non-empty; will retain in history
+0007.423 (0) Examining backup set with datestamp: 1366060929
+0007.423 (0) 1366060929: this set includes a database (backup_2013-04-15-2122_Redline_Fight_Sports_29f113be7f6e-db.gz); db count is now 2
+0007.424 (0) 1366060929: this set includes files; fileset count is now 2
+0007.424 (0) 1366060929: this backup set remains non-empty; will retain in history
+0007.425 (0) Examining backup set with datestamp: 1366060852
+0007.431 (0) 1366060852: this set includes a database (backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-db.gz); db count is now 3
+0007.432 (0) 1366060852: over retain limit (2); will delete this database
+0007.432 (0) Delete this file: backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-db.gz, service=email
+0007.433 (0) Deleting local copy (/home7/rainbpk2/public_html/wp-content/updraft/backup_2013-04-15-2120_Redline_Fight_Sports_f677c7502799-db.gz)
+0007.434 (0) 1366060852: this backup set is now empty; will remove from history
+0007.435 (0) 1366060852: deleting log file (log.f677c7502799.txt)
+0007.436 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0007.437 (0) Resume backup (b9297742d499, 0): finish run
+0007.439 (0) There were no errors in the uploads, so the 'resume' event is being unscheduled
+0007.440 (0) Sending email ('Database only (files were not part of this particular schedule)') report to: conor...
+0007.657 (0) The backup apparently succeeded and is now complete

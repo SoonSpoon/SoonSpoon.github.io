@@ -1,0 +1,99 @@
+0000.000 () Opened log file at time: Tue, 23 Apr 2013 19:35:50 +0000
+0000.003 () UpdraftPlus: 1.5.22 WP: 3.5.1 PHP: 5.2.17 (Linux box788.bluehost.com 2.6.32-20130307.60.9.bh6.x86_64 #1 SMP Thu Mar 7 15:58:33 EST 2013 x86_64) Server: Apache max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+0000.005 () Free space on disk containing Updraft's temporary directory: 1575158 Mb
+0000.006 () Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: fortnightly)
+0000.008 () Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.010 (0) Backup run: resumption=0, nonce=e4961f8b517e, begun at=1366745750 (0s ago), job type=backup
+0000.011 (0) Scheduling a resumption (1) after 300 seconds (1366746050) in case this run gets aborted
+0000.012 (0) Creation of backups of directories: beginning
+0000.015 (0) Beginning creation of dump of plugins
+0000.206 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 100 files added (on-disk size: 395 Kb, lwt=0s)
+0001.330 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 200 files added (on-disk size: 2100.5 Kb, lwt=0s)
+0002.058 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 300 files added (on-disk size: 3783 Kb, lwt=0s)
+0002.348 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 400 files added (on-disk size: 4067.2 Kb, lwt=0s)
+0002.500 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 500 files added (on-disk size: 4296.3 Kb, lwt=0s)
+0002.781 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 600 files added (on-disk size: 4670.4 Kb, lwt=0s)
+0003.322 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 700 files added (on-disk size: 7117.3 Kb, lwt=0s)
+0004.582 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 800 files added (on-disk size: 8990.4 Kb, lwt=0s)
+0005.106 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 900 files added (on-disk size: 11796.7 Kb, lwt=0s)
+0006.234 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 1000 files added (on-disk size: 12756.6 Kb, lwt=0s)
+0007.109 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip.tmp: 1100 files added (on-disk size: 12933.6 Kb, lwt=0s)
+0007.732 (0) Created plugins zip - file size is 13029.8 Kb in 7.7 s (1688.7 Kb/s)
+0007.734 (0) Beginning creation of dump of themes
+0007.930 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 100 files added (on-disk size: 696.1 Kb, lwt=0s)
+0008.190 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 200 files added (on-disk size: 1437 Kb, lwt=0s)
+0008.321 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 300 files added (on-disk size: 1816.1 Kb, lwt=0s)
+0008.515 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 400 files added (on-disk size: 2142.9 Kb, lwt=0s)
+0008.831 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 500 files added (on-disk size: 3776.2 Kb, lwt=0s)
+0009.006 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 600 files added (on-disk size: 4094.5 Kb, lwt=0s)
+0009.563 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 700 files added (on-disk size: 4363.2 Kb, lwt=0s)
+0009.812 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 800 files added (on-disk size: 5684.5 Kb, lwt=0s)
+0010.509 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 900 files added (on-disk size: 6726 Kb, lwt=0s)
+0011.038 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1000 files added (on-disk size: 7077.1 Kb, lwt=0s)
+0011.893 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1100 files added (on-disk size: 7245.9 Kb, lwt=0s)
+0012.617 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1200 files added (on-disk size: 7386.1 Kb, lwt=0s)
+0013.494 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1300 files added (on-disk size: 7715.6 Kb, lwt=0s)
+0014.255 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1400 files added (on-disk size: 8144.5 Kb, lwt=0s)
+0014.615 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1500 files added (on-disk size: 8470 Kb, lwt=0s)
+0014.954 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1600 files added (on-disk size: 8715.9 Kb, lwt=1s)
+0015.209 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1700 files added (on-disk size: 8848.6 Kb, lwt=0s)
+0015.775 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1800 files added (on-disk size: 13185 Kb, lwt=0s)
+0016.144 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 1900 files added (on-disk size: 13413.4 Kb, lwt=0s)
+0016.534 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip.tmp: 2000 files added (on-disk size: 13881.9 Kb, lwt=0s)
+0016.916 (0) Created themes zip - file size is 14699.9 Kb in 9.2 s (1601 Kb/s)
+0016.919 (0) Beginning creation of dump of uploads
+0017.230 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-uploads.zip.tmp: 100 files added (on-disk size: 2422.6 Kb, lwt=0s)
+0017.237 (0) Zip: backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-uploads.zip.tmp: 200 files added (on-disk size: 2422.6 Kb, lwt=0s)
+0021.064 (0) Created uploads zip - file size is 25163 Kb in 4.1 s (6076.7 Kb/s)
+0021.065 (0) Beginning backup of other directories found in the content directory
+0021.065 (0) Looking for candidates to back up in: /home7/rainbpk2/public_html/wp-content
+0021.066 (0) finding files: uploads: skipping: this is the uploads directory
+0021.066 (0) finding files: upgrade: skipping: excluded by options
+0021.068 (0) finding files: updraft: skipping: this is the updraft directory
+0021.068 (0) finding files: install.php: adding to list
+0021.069 (0) finding files: plugins: skipping: this is the plugins directory
+0021.070 (0) finding files: themes: skipping: this is the themes directory
+0021.071 (0) finding files: index.php: skipping: excluded by options
+0021.091 (0) Created others zip - file size is 0.6 Kb in 0 s (28.9 Kb/s)
+0021.093 (0) Saving backup status to database (elements: 8)
+0021.094 (0) Unrecognised data when trying to ascertain if the database was backed up ()
+0021.095 (0) Saving backup history
+0021.096 (0) backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0021.096 (0) backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0021.097 (0) backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0021.097 (0) backup_2013-04-23-1935_non_alpha_name_e4961f8b517e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0021.100 (0) Requesting backup of the files that were not successfully uploaded
+0021.100 (0) Cloud backup selection: none
+0021.101 (0) No remote despatch: user chose no remote backup service
+0021.102 (0) Retain: beginning examination of existing backup sets
+0021.102 (0) Retain files: user setting: number to retain = 2
+0021.103 (0) Retain db: user setting: number to retain = 2
+0021.104 (0) Number of backup sets in history: 4
+0021.105 (0) Examining backup set with datestamp: 1366745750
+0021.105 (0) 1366745750: this set includes files; fileset count is now 1
+0021.106 (0) 1366745750: this backup set remains non-empty; will retain in history
+0021.106 (0) Examining backup set with datestamp: 1366134517
+0021.107 (0) 1366134517: this set includes a database (backup_2013-04-16-1748_Redline_Fight_Sports_edebaa7d4cde-db.gz); db count is now 1
+0021.107 (0) 1366134517: this set includes files; fileset count is now 2
+0021.108 (0) 1366134517: this backup set remains non-empty; will retain in history
+0021.108 (0) Examining backup set with datestamp: 1366134490
+0021.109 (0) 1366134490: this set includes files; fileset count is now 3
+0021.109 (0) 1366134490: over retain limit (2); will delete this file set
+0021.110 (0) Delete this file: backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-plugins.zip, service=none
+0021.110 (0) Deleting local copy (/home7/rainbpk2/public_html/wp-content/updraft/backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-plugins.zip)
+0021.163 (0) Delete this file: backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-themes.zip, service=none
+0021.164 (0) Deleting local copy (/home7/rainbpk2/public_html/wp-content/updraft/backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-themes.zip)
+0021.208 (0) Delete this file: backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-uploads.zip, service=none
+0021.210 (0) Deleting local copy (/home7/rainbpk2/public_html/wp-content/updraft/backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-uploads.zip)
+0021.222 (0) Delete this file: backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-others.zip, service=none
+0021.223 (0) Deleting local copy (/home7/rainbpk2/public_html/wp-content/updraft/backup_2013-04-16-1748_Redline_Fight_Sports_68e40a010962-others.zip)
+0021.224 (0) 1366134490: this backup set is now empty; will remove from history
+0021.225 (0) 1366134490: deleting log file (log.68e40a010962.txt)
+0021.227 (0) Examining backup set with datestamp: 1366134451
+0021.227 (0) 1366134451: this set includes a database (backup_2013-04-16-1747_Redline_Fight_Sports_a1856f45d888-db.gz); db count is now 2
+0021.228 (0) 1366134451: this backup set remains non-empty; will retain in history
+0021.228 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0021.232 (0) Resume backup (e4961f8b517e, 0): finish run
+0021.233 (0) There were no errors in the uploads, so the 'resume' event is being unscheduled
+0021.235 (0) Sending email ('Files only (database was not part of this particular schedule)') report to: conor...
+0021.486 (0) The backup apparently succeeded and is now complete

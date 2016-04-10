@@ -1,0 +1,4916 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csvArray
+(
+    [0] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [1] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [2] => Array
+        (
+            [restaurant] => 51 Lincoln
+            [user_id] => 167
+            [time] => 18:30
+            [days] => Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [3] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [4] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [5] => Array
+        (
+            [restaurant] => Menton
+            [user_id] => 91
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [6] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [7] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:30
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [8] => Array
+        (
+            [restaurant] => L'Espalier
+            [user_id] => 71
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [9] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [10] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 20:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [11] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [12] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [13] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [14] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 5
+        )
+
+    [15] => Array
+        (
+            [restaurant] => Shojo
+            [user_id] => 207
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [16] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [17] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 21:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [18] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 17:45
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [19] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [20] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [21] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [22] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Monday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [23] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 19:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [24] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 6
+        )
+
+    [25] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [26] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [27] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [28] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [29] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [30] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [31] => Array
+        (
+            [restaurant] => Commonwealth
+            [user_id] => 222
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [32] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [33] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [34] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:15
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [35] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:45
+            [days] => Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [36] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [37] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [38] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 18:45
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [39] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 20:45
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+)
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Saturday
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Saturday
+User id: 167
+Restaurant: 51 Lincoln
+Today is : Saturday
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Saturday
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Saturday
+User id: 91
+Restaurant: Menton
+Today is : Saturday
+User id: 86
+Restaurant: Tupelo
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 3-4 seats on 08/23/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:30
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 2 seats on 08/23/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 71
+Restaurant: L'Espalier
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => L'Espalier
+    [user_id] => 71
+    [time] => 18:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 71
+    [post_status] => publish
+    [post_title] => L'Espalier - 2 seats on 08/23/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Saturday
+User id: 157
+Restaurant: Uni
+Today is : Saturday
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 1-2 seats on 08/23/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 3-4 seats on 08/23/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Saturday
+User id: 66
+Restaurant: Bergamot
+Today is : Saturday
+User id: 207
+Restaurant: Shojo
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Shojo
+    [user_id] => 207
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 207
+    [post_status] => publish
+    [post_title] => Shojo - 2 seats on 08/23/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Clio
+    [user_id] => 152
+    [time] => 21:00
+    [days] => Friday,Saturday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 152
+    [post_status] => publish
+    [post_title] => Clio - 1-2 seats on 08/23/14 at 9:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 157
+Restaurant: Uni
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Uni
+    [user_id] => 157
+    [time] => 21:30
+    [days] => Friday,Saturday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 157
+    [post_status] => publish
+    [post_title] => Uni - 1-2 seats on 08/23/14 at 9:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Saturday
+User id: 212
+Restaurant: The Merchant
+Today is : Saturday
+User id: 212
+Restaurant: The Merchant
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 19:00
+    [days] => Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 2 seats on 08/23/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 19:00
+    [days] => Saturday,Sunday
+    [flex] => 0
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 4 seats on 08/23/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 17:30
+    [days] => Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 2 seats on 08/23/14 at 5:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 17:30
+    [days] => Friday,Saturday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/23/14 at 5:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 21:00
+    [days] => Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 2 seats on 08/23/14 at 9:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 21:00
+    [days] => Friday,Saturday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/23/14 at 9:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 222
+Restaurant: Commonwealth
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Commonwealth
+    [user_id] => 222
+    [time] => 18:00
+    [days] => Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 222
+    [post_status] => publish
+    [post_title] => Commonwealth - 2 seats on 08/23/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Saturday
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Fairsted Kitchen
+    [user_id] => 227
+    [time] => 18:00
+    [days] => Friday,Saturday
+    [flex] => 1
+    [seats] => 3
+)
+Matched res : 1
+Array
+(
+    [post_author] => 227
+    [post_status] => publish
+    [post_title] => Fairsted Kitchen - 2-3 seats on 08/23/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 237
+Restaurant: La Brasa
+Today is : Saturday
+User id: 237
+Restaurant: La Brasa
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => La Brasa
+    [user_id] => 237
+    [time] => 20:45
+    [days] => Thursday,Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 237
+    [post_status] => publish
+    [post_title] => La Brasa - 2 seats on 08/23/14 at 8:45 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Saturday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Saturday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 18:45
+    [days] => Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 2 seats on 08/23/14 at 6:45 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Saturday
+Matched today with reservation day : Saturday = Saturday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 20:45
+    [days] => Friday,Saturday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 3-4 seats on 08/23/14 at 8:45 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csvArray
+(
+    [0] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [1] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [2] => Array
+        (
+            [restaurant] => 51 Lincoln
+            [user_id] => 167
+            [time] => 18:30
+            [days] => Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [3] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [4] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [5] => Array
+        (
+            [restaurant] => Menton
+            [user_id] => 91
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [6] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [7] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:30
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [8] => Array
+        (
+            [restaurant] => L'Espalier
+            [user_id] => 71
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [9] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [10] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 20:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [11] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [12] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [13] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [14] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 5
+        )
+
+    [15] => Array
+        (
+            [restaurant] => Shojo
+            [user_id] => 207
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [16] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [17] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 21:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [18] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 17:45
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [19] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [20] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [21] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [22] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Monday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [23] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 19:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [24] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 6
+        )
+
+    [25] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [26] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [27] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [28] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [29] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [30] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [31] => Array
+        (
+            [restaurant] => Commonwealth
+            [user_id] => 222
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [32] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [33] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [34] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:15
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [35] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:45
+            [days] => Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [36] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [37] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [38] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 18:45
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [39] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 20:45
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+)
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 2 seats on 08/24/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 3-4 seats on 08/24/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 167
+Restaurant: 51 Lincoln
+Today is : Sunday
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 2 seats on 08/24/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 3-4 seats on 08/24/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 91
+Restaurant: Menton
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Menton
+    [user_id] => 91
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 91
+    [post_status] => publish
+    [post_title] => Menton - 1-2 seats on 08/24/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 3-4 seats on 08/24/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:30
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 2 seats on 08/24/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 71
+Restaurant: L'Espalier
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => L'Espalier
+    [user_id] => 71
+    [time] => 18:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 71
+    [post_status] => publish
+    [post_title] => L'Espalier - 2 seats on 08/24/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Sunday
+User id: 157
+Restaurant: Uni
+Today is : Sunday
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 1-2 seats on 08/24/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 3-4 seats on 08/24/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Sunday
+User id: 66
+Restaurant: Bergamot
+Today is : Sunday
+User id: 207
+Restaurant: Shojo
+Today is : Sunday
+User id: 152
+Restaurant: Clio
+Today is : Sunday
+User id: 157
+Restaurant: Uni
+Today is : Sunday
+User id: 212
+Restaurant: The Merchant
+Today is : Sunday
+User id: 212
+Restaurant: The Merchant
+Today is : Sunday
+User id: 212
+Restaurant: The Merchant
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 19:00
+    [days] => Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 2 seats on 08/24/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 19:00
+    [days] => Saturday,Sunday
+    [flex] => 0
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 4 seats on 08/24/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 18:00
+    [days] => Monday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 2 seats on 08/24/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 19:00
+    [days] => Monday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/24/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 20:00
+    [days] => Monday,Sunday
+    [flex] => 1
+    [seats] => 6
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 5-6 seats on 08/24/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+User id: 217
+Restaurant: Tavern Road
+Today is : Sunday
+User id: 222
+Restaurant: Commonwealth
+Today is : Sunday
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Sunday
+Matched today with reservation day : Sunday = Sunday
+Array
+(
+    [restaurant] => Fairsted Kitchen
+    [user_id] => 227
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 3
+)
+Matched res : 1
+Array
+(
+    [post_author] => 227
+    [post_status] => publish
+    [post_title] => Fairsted Kitchen - 2-3 seats on 08/24/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Sunday
+User id: 237
+Restaurant: La Brasa
+Today is : Sunday
+User id: 237
+Restaurant: La Brasa
+Today is : Sunday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Sunday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Sunday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Sunday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Sunday
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csvArray
+(
+    [0] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [1] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [2] => Array
+        (
+            [restaurant] => 51 Lincoln
+            [user_id] => 167
+            [time] => 18:30
+            [days] => Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [3] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [4] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [5] => Array
+        (
+            [restaurant] => Menton
+            [user_id] => 91
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [6] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [7] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:30
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [8] => Array
+        (
+            [restaurant] => L'Espalier
+            [user_id] => 71
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [9] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [10] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 20:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [11] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [12] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [13] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [14] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 5
+        )
+
+    [15] => Array
+        (
+            [restaurant] => Shojo
+            [user_id] => 207
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [16] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [17] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 21:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [18] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 17:45
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [19] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [20] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [21] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [22] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Monday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [23] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 19:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [24] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 6
+        )
+
+    [25] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [26] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [27] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [28] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [29] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [30] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [31] => Array
+        (
+            [restaurant] => Commonwealth
+            [user_id] => 222
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [32] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [33] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [34] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:15
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [35] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:45
+            [days] => Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [36] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [37] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [38] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 18:45
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [39] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 20:45
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+)
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 2 seats on 08/25/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 3-4 seats on 08/25/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 167
+Restaurant: 51 Lincoln
+Today is : Monday
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 2 seats on 08/25/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 3-4 seats on 08/25/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 91
+Restaurant: Menton
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Menton
+    [user_id] => 91
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 91
+    [post_status] => publish
+    [post_title] => Menton - 1-2 seats on 08/25/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Monday
+User id: 86
+Restaurant: Tupelo
+Today is : Monday
+User id: 71
+Restaurant: L'Espalier
+Today is : Monday
+User id: 152
+Restaurant: Clio
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Clio
+    [user_id] => 152
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 152
+    [post_status] => publish
+    [post_title] => Clio - 1-2 seats on 08/25/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 157
+Restaurant: Uni
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Uni
+    [user_id] => 157
+    [time] => 20:30
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 157
+    [post_status] => publish
+    [post_title] => Uni - 1-2 seats on 08/25/14 at 8:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 1-2 seats on 08/25/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 3-4 seats on 08/25/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Bergamot
+    [user_id] => 66
+    [time] => 18:15
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 66
+    [post_status] => publish
+    [post_title] => Bergamot - 1-2 seats on 08/25/14 at 6:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Bergamot
+    [user_id] => 66
+    [time] => 18:15
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 5
+)
+Matched res : 1
+Array
+(
+    [post_author] => 66
+    [post_status] => publish
+    [post_title] => Bergamot - 4-5 seats on 08/25/14 at 6:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 207
+Restaurant: Shojo
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Shojo
+    [user_id] => 207
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 207
+    [post_status] => publish
+    [post_title] => Shojo - 2 seats on 08/25/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Monday
+User id: 157
+Restaurant: Uni
+Today is : Monday
+User id: 212
+Restaurant: The Merchant
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 17:45
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 2 seats on 08/25/14 at 5:45 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 4 seats on 08/25/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Monday
+User id: 212
+Restaurant: The Merchant
+Today is : Monday
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 18:00
+    [days] => Monday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 2 seats on 08/25/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 19:00
+    [days] => Monday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/25/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 20:00
+    [days] => Monday,Sunday
+    [flex] => 1
+    [seats] => 6
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 5-6 seats on 08/25/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+User id: 217
+Restaurant: Tavern Road
+Today is : Monday
+User id: 222
+Restaurant: Commonwealth
+Today is : Monday
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Fairsted Kitchen
+    [user_id] => 227
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 3
+)
+Matched res : 1
+Array
+(
+    [post_author] => 227
+    [post_status] => publish
+    [post_title] => Fairsted Kitchen - 2-3 seats on 08/25/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Monday
+User id: 237
+Restaurant: La Brasa
+Today is : Monday
+User id: 237
+Restaurant: La Brasa
+Today is : Monday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 2 seats on 08/25/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Monday
+Matched today with reservation day : Monday = Monday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 3-4 seats on 08/25/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Monday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Monday
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csvArray
+(
+    [0] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [1] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [2] => Array
+        (
+            [restaurant] => 51 Lincoln
+            [user_id] => 167
+            [time] => 18:30
+            [days] => Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [3] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [4] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [5] => Array
+        (
+            [restaurant] => Menton
+            [user_id] => 91
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [6] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [7] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:30
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [8] => Array
+        (
+            [restaurant] => L'Espalier
+            [user_id] => 71
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [9] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [10] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 20:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [11] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [12] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [13] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [14] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 5
+        )
+
+    [15] => Array
+        (
+            [restaurant] => Shojo
+            [user_id] => 207
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [16] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [17] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 21:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [18] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 17:45
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [19] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [20] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [21] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [22] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Monday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [23] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 19:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [24] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 6
+        )
+
+    [25] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [26] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [27] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [28] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [29] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [30] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [31] => Array
+        (
+            [restaurant] => Commonwealth
+            [user_id] => 222
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [32] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [33] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [34] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:15
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [35] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:45
+            [days] => Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [36] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [37] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [38] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 18:45
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [39] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 20:45
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+)
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 2 seats on 08/26/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 3-4 seats on 08/26/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 167
+Restaurant: 51 Lincoln
+Today is : Tuesday
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 2 seats on 08/26/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 3-4 seats on 08/26/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 91
+Restaurant: Menton
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Menton
+    [user_id] => 91
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 91
+    [post_status] => publish
+    [post_title] => Menton - 1-2 seats on 08/26/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 3-4 seats on 08/26/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:30
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 2 seats on 08/26/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 71
+Restaurant: L'Espalier
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => L'Espalier
+    [user_id] => 71
+    [time] => 18:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 71
+    [post_status] => publish
+    [post_title] => L'Espalier - 2 seats on 08/26/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Clio
+    [user_id] => 152
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 152
+    [post_status] => publish
+    [post_title] => Clio - 1-2 seats on 08/26/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 157
+Restaurant: Uni
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Uni
+    [user_id] => 157
+    [time] => 20:30
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 157
+    [post_status] => publish
+    [post_title] => Uni - 1-2 seats on 08/26/14 at 8:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 1-2 seats on 08/26/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 3-4 seats on 08/26/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Bergamot
+    [user_id] => 66
+    [time] => 18:15
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 66
+    [post_status] => publish
+    [post_title] => Bergamot - 1-2 seats on 08/26/14 at 6:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Bergamot
+    [user_id] => 66
+    [time] => 18:15
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 5
+)
+Matched res : 1
+Array
+(
+    [post_author] => 66
+    [post_status] => publish
+    [post_title] => Bergamot - 4-5 seats on 08/26/14 at 6:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 207
+Restaurant: Shojo
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Shojo
+    [user_id] => 207
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 207
+    [post_status] => publish
+    [post_title] => Shojo - 2 seats on 08/26/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Tuesday
+User id: 157
+Restaurant: Uni
+Today is : Tuesday
+User id: 212
+Restaurant: The Merchant
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 17:45
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 2 seats on 08/26/14 at 5:45 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 4 seats on 08/26/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Tuesday
+User id: 212
+Restaurant: The Merchant
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 18:00
+    [days] => Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/26/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 20:00
+    [days] => Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/26/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Tuesday
+User id: 222
+Restaurant: Commonwealth
+Today is : Tuesday
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Fairsted Kitchen
+    [user_id] => 227
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 3
+)
+Matched res : 1
+Array
+(
+    [post_author] => 227
+    [post_status] => publish
+    [post_title] => Fairsted Kitchen - 2-3 seats on 08/26/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Tuesday
+User id: 237
+Restaurant: La Brasa
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => La Brasa
+    [user_id] => 237
+    [time] => 20:15
+    [days] => Tuesday,Wednesday,Thursday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 237
+    [post_status] => publish
+    [post_title] => La Brasa - 2 seats on 08/26/14 at 8:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 237
+Restaurant: La Brasa
+Today is : Tuesday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 2 seats on 08/26/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Tuesday
+Matched today with reservation day : Tuesday = Tuesday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 3-4 seats on 08/26/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Tuesday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Tuesday
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csvArray
+(
+    [0] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [1] => Array
+        (
+            [restaurant] => Beacon Hill Bistro
+            [user_id] => 62
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [2] => Array
+        (
+            [restaurant] => 51 Lincoln
+            [user_id] => 167
+            [time] => 18:30
+            [days] => Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [3] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [4] => Array
+        (
+            [restaurant] => Puritan and Co.
+            [user_id] => 79
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [5] => Array
+        (
+            [restaurant] => Menton
+            [user_id] => 91
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [6] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [7] => Array
+        (
+            [restaurant] => Tupelo
+            [user_id] => 86
+            [time] => 19:30
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [8] => Array
+        (
+            [restaurant] => L'Espalier
+            [user_id] => 71
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [9] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 20:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [10] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 20:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [11] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [12] => Array
+        (
+            [restaurant] => Ole Mexican Grill
+            [user_id] => 202
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [13] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [14] => Array
+        (
+            [restaurant] => Bergamot
+            [user_id] => 66
+            [time] => 18:15
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 5
+        )
+
+    [15] => Array
+        (
+            [restaurant] => Shojo
+            [user_id] => 207
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [16] => Array
+        (
+            [restaurant] => Clio
+            [user_id] => 152
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [17] => Array
+        (
+            [restaurant] => Uni
+            [user_id] => 157
+            [time] => 21:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 2
+        )
+
+    [18] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 17:45
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [19] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 18:00
+            [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [20] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [21] => Array
+        (
+            [restaurant] => The Merchant
+            [user_id] => 212
+            [time] => 19:00
+            [days] => Saturday,Sunday
+            [flex] => 0
+            [seats] => 4
+        )
+
+    [22] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Monday,Sunday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [23] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 19:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [24] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Monday,Sunday
+            [flex] => 1
+            [seats] => 6
+        )
+
+    [25] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 18:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [26] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 20:00
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [27] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [28] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 17:30
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [29] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [30] => Array
+        (
+            [restaurant] => Tavern Road
+            [user_id] => 217
+            [time] => 21:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [31] => Array
+        (
+            [restaurant] => Commonwealth
+            [user_id] => 222
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [32] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:30
+            [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [33] => Array
+        (
+            [restaurant] => Fairsted Kitchen
+            [user_id] => 227
+            [time] => 18:00
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 3
+        )
+
+    [34] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:15
+            [days] => Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [35] => Array
+        (
+            [restaurant] => La Brasa
+            [user_id] => 237
+            [time] => 20:45
+            [days] => Thursday,Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [36] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:00
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [37] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 19:30
+            [days] => Monday,Tuesday,Wednesday,Thursday
+            [flex] => 1
+            [seats] => 4
+        )
+
+    [38] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 18:45
+            [days] => Friday,Saturday
+            [flex] => 0
+            [seats] => 2
+        )
+
+    [39] => Array
+        (
+            [restaurant] => Taberna De Haro
+            [user_id] => 247
+            [time] => 20:45
+            [days] => Friday,Saturday
+            [flex] => 1
+            [seats] => 4
+        )
+
+)
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 2 seats on 08/27/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 62
+Restaurant: Beacon Hill Bistro
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Beacon Hill Bistro
+    [user_id] => 62
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 62
+    [post_status] => publish
+    [post_title] => Beacon Hill Bistro - 3-4 seats on 08/27/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 167
+Restaurant: 51 Lincoln
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => 51 Lincoln
+    [user_id] => 167
+    [time] => 18:30
+    [days] => Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 167
+    [post_status] => publish
+    [post_title] => 51 Lincoln - 2 seats on 08/27/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 2 seats on 08/27/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 79
+Restaurant: Puritan and Co.
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Puritan and Co.
+    [user_id] => 79
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 79
+    [post_status] => publish
+    [post_title] => Puritan and Co. - 3-4 seats on 08/27/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 91
+Restaurant: Menton
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Menton
+    [user_id] => 91
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 91
+    [post_status] => publish
+    [post_title] => Menton - 1-2 seats on 08/27/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 3-4 seats on 08/27/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 86
+Restaurant: Tupelo
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Tupelo
+    [user_id] => 86
+    [time] => 19:30
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 86
+    [post_status] => publish
+    [post_title] => Tupelo - 2 seats on 08/27/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 71
+Restaurant: L'Espalier
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => L'Espalier
+    [user_id] => 71
+    [time] => 18:00
+    [days] => Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 71
+    [post_status] => publish
+    [post_title] => L'Espalier - 2 seats on 08/27/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Clio
+    [user_id] => 152
+    [time] => 20:00
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 152
+    [post_status] => publish
+    [post_title] => Clio - 1-2 seats on 08/27/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 157
+Restaurant: Uni
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Uni
+    [user_id] => 157
+    [time] => 20:30
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 157
+    [post_status] => publish
+    [post_title] => Uni - 1-2 seats on 08/27/14 at 8:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 1-2 seats on 08/27/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 202
+Restaurant: Ole Mexican Grill
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Ole Mexican Grill
+    [user_id] => 202
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 202
+    [post_status] => publish
+    [post_title] => Ole Mexican Grill - 3-4 seats on 08/27/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Bergamot
+    [user_id] => 66
+    [time] => 18:15
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 66
+    [post_status] => publish
+    [post_title] => Bergamot - 1-2 seats on 08/27/14 at 6:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 66
+Restaurant: Bergamot
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Bergamot
+    [user_id] => 66
+    [time] => 18:15
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 5
+)
+Matched res : 1
+Array
+(
+    [post_author] => 66
+    [post_status] => publish
+    [post_title] => Bergamot - 4-5 seats on 08/27/14 at 6:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 207
+Restaurant: Shojo
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Shojo
+    [user_id] => 207
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 207
+    [post_status] => publish
+    [post_title] => Shojo - 2 seats on 08/27/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 152
+Restaurant: Clio
+Today is : Wednesday
+User id: 157
+Restaurant: Uni
+Today is : Wednesday
+User id: 212
+Restaurant: The Merchant
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 17:45
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 2 seats on 08/27/14 at 5:45 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => The Merchant
+    [user_id] => 212
+    [time] => 18:00
+    [days] => Monday,Tuesday,Wednesday,Thursday,Friday
+    [flex] => 0
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 212
+    [post_status] => publish
+    [post_title] => The Merchant - 4 seats on 08/27/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 212
+Restaurant: The Merchant
+Today is : Wednesday
+User id: 212
+Restaurant: The Merchant
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 18:00
+    [days] => Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/27/14 at 6:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Tavern Road
+    [user_id] => 217
+    [time] => 20:00
+    [days] => Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 217
+    [post_status] => publish
+    [post_title] => Tavern Road - 3-4 seats on 08/27/14 at 8:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 217
+Restaurant: Tavern Road
+Today is : Wednesday
+User id: 222
+Restaurant: Commonwealth
+Today is : Wednesday
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Fairsted Kitchen
+    [user_id] => 227
+    [time] => 18:30
+    [days] => Monday,Tuesday,Wednesday,Thursday,Sunday
+    [flex] => 1
+    [seats] => 3
+)
+Matched res : 1
+Array
+(
+    [post_author] => 227
+    [post_status] => publish
+    [post_title] => Fairsted Kitchen - 2-3 seats on 08/27/14 at 6:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 227
+Restaurant: Fairsted Kitchen
+Today is : Wednesday
+User id: 237
+Restaurant: La Brasa
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => La Brasa
+    [user_id] => 237
+    [time] => 20:15
+    [days] => Tuesday,Wednesday,Thursday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 237
+    [post_status] => publish
+    [post_title] => La Brasa - 2 seats on 08/27/14 at 8:15 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 237
+Restaurant: La Brasa
+Today is : Wednesday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 19:00
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 0
+    [seats] => 2
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 2 seats on 08/27/14 at 7:00 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Wednesday
+Matched today with reservation day : Wednesday = Wednesday
+Array
+(
+    [restaurant] => Taberna De Haro
+    [user_id] => 247
+    [time] => 19:30
+    [days] => Monday,Tuesday,Wednesday,Thursday
+    [flex] => 1
+    [seats] => 4
+)
+Matched res : 1
+Array
+(
+    [post_author] => 247
+    [post_status] => publish
+    [post_title] => Taberna De Haro - 3-4 seats on 08/27/14 at 7:30 pm
+    [post_type] => reservation
+    [Pending] => yes
+)
+Inserted post: 1
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Wednesday
+User id: 247
+Restaurant: Taberna De Haro
+Today is : Wednesday
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
+ 
+
+Processing filename http://www.soonspoon.com/wp-content/uploads/reservations.csv
+http://www.soonspoon.com/wp-content/uploads/reservations.csv
+Warning: fopen(http://www.soonspoon.com/wp-content/uploads/reservations.csv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 29
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/soonspoon/soonspoon.com/wp-content/plugins/setfive/auto_input_reservations.php on line 32
